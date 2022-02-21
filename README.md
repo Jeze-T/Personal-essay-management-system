@@ -29,6 +29,24 @@ c．优化排序算法，设计出更加快速的论文排序算法。
 D．使用lucen等全文检工具实现对论文摘要内容的检索。（例如查找论文摘要中包含某个关键字的论文）。
 
 
+
+
+
 USAGE:
+
 phpstudy,http://127.0.0.1/thesis/search0.php
 
+
+浏览论文1
+![浏览论文1](https://github.com/Jeze-T/Personal-essay-management-system/blob/main/%E6%B5%8F%E8%A7%88%E8%AE%BA%E6%96%871.png)
+
+浏览论文2
+![浏览论文2](https://github.com/Jeze-T/Personal-essay-management-system/blob/main/%E6%B5%8F%E8%A7%88%E8%AE%BA%E6%96%872.png)
+
+增加论文
+
+![增加论文](https://github.com/Jeze-T/Personal-essay-management-system/blob/main/%E5%A2%9E%E5%8A%A0%E8%AE%BA%E6%96%87.png)
+
+查找论文
+
+![查找论文](https://github.com/Jeze-T/Personal-essay-management-system/blob/main/%E6%9F%A5%E6%89%BE%E8%AE%BA%E6%96%87.png)
